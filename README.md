@@ -1,6 +1,5 @@
 # 🤖 AI-Powered Intelligent Resume Screening Tool
-
-![License](https://img.shields.io/github/license/yourusername/resume-screener)  
+ 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)  
 ![Streamlit](https://img.shields.io/badge/framework-streamlit-orange)  
 ![Groq](https://img.shields.io/badge/api-groq-purple)
