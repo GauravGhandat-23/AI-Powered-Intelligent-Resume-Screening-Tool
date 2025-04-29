@@ -1,0 +1,7 @@
+streamlit
+groq
+python-docx
+pdfminer.six
+PyPDF2
+python-dotenv
+pdfplumber
